@@ -1,0 +1,13 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\qwe\\su21-p75\\library-su21\\algs4.jar",
+        "c:\\Users\\qwe\\su21-p75\\library-su21\\hamcrest-core-1.3.jar",
+        "c:\\Users\\qwe\\su21-p75\\library-su21\\jh61b.jar",
+        "c:\\Users\\qwe\\su21-p75\\library-su21\\junit-4.12.jar",
+        "c:\\Users\\qwe\\su21-p75\\library-su21\\stdlib.jar",
+        "c:\\Users\\qwe\\su21-p75\\library-su21\\stdlib-package.jar",
+        "c:\\Users\\qwe\\su21-p75\\library-su21\\ucb.jar",
+        "c:\\Users\\qwe\\su21-p75\\library-su21\\xchart-3.5.1.jar"
+    ]
+}
